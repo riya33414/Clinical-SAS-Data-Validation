@@ -1,0 +1,81 @@
+SUBJID,VISIT,VISIT_DATE,STATUS
+SUBJ001,Screening,01JAN2026,Completed
+SUBJ001,Baseline,02JAN2026,Completed
+SUBJ001,Week 2,16JAN2026,Completed
+SUBJ001,Week 4,30JAN2026,Completed
+SUBJ002,Screening,02JAN2026,Completed
+SUBJ002,Baseline,,Completed
+SUBJ002,Week 2,17JAN2026,Completed
+SUBJ002,Week 4,31JAN2026,Completed
+SUBJ003,Screening,03JAN2026,Unknown
+SUBJ003,Baseline,04JAN2026,Completed
+SUBJ003,Week 2,18JAN2026,Completed
+SUBJ003,Week 4,32JAN2026,Completed
+SUBJ004,Screening,04JAN2026,Completed
+SUBJ004,Baseline,05JAN2026,Completed
+SUBJ004,Week 2,19JAN2026,Completed
+SUBJ004,Week 4,33JAN2026,Completed
+SUBJ005,Screening,05JAN2026,Completed
+SUBJ005,Baseline,06JAN2026,Completed
+SUBJ005,Week 2,20JAN2026,Completed
+SUBJ005,Week 4,34JAN2026,Completed
+SUBJ006,Screening,06JAN2026,Completed
+SUBJ006,Baseline,07JAN2026,Completed
+SUBJ006,Week 2,21JAN2026,Completed
+SUBJ006,Week 4,35JAN2026,Completed
+SUBJ007,Screening,07JAN2026,Completed
+SUBJ007,Baseline,08JAN2026,Completed
+SUBJ007,Week 2,22JAN2026,Completed
+SUBJ007,Week 4,36JAN2026,Completed
+SUBJ008,Screening,08JAN2026,Completed
+SUBJ008,Baseline,09JAN2026,Completed
+SUBJ008,Week 2,23JAN2026,Completed
+SUBJ008,Week 4,37JAN2026,Completed
+SUBJ009,Screening,09JAN2026,Completed
+SUBJ009,Baseline,10JAN2026,Completed
+SUBJ009,Week 2,24JAN2026,Completed
+SUBJ009,Week 4,38JAN2026,Completed
+SUBJ010,Screening,10JAN2026,Completed
+SUBJ010,Baseline,11JAN2026,Completed
+SUBJ010,Week 2,25JAN2026,Completed
+SUBJ010,Week 4,39JAN2026,Completed
+SUBJ011,Screening,11JAN2026,Completed
+SUBJ011,Baseline,12JAN2026,Completed
+SUBJ011,Week 2,26JAN2026,Completed
+SUBJ011,Week 4,40JAN2026,Completed
+SUBJ012,Screening,12JAN2026,Completed
+SUBJ012,Baseline,13JAN2026,Completed
+SUBJ012,Week 2,27JAN2026,Completed
+SUBJ012,Week 4,41JAN2026,Completed
+SUBJ013,Screening,13JAN2026,Completed
+SUBJ013,Baseline,14JAN2026,Completed
+SUBJ013,Week 2,28JAN2026,Completed
+SUBJ013,Week 4,42JAN2026,Completed
+SUBJ014,Screening,14JAN2026,Completed
+SUBJ014,Baseline,15JAN2026,Completed
+SUBJ014,Week 2,29JAN2026,Completed
+SUBJ014,Week 4,43JAN2026,Completed
+SUBJ015,Screening,15JAN2026,Completed
+SUBJ015,Baseline,16JAN2026,Completed
+SUBJ015,Week 2,30JAN2026,Completed
+SUBJ015,Week 4,44JAN2026,Completed
+SUBJ016,Screening,16JAN2026,Completed
+SUBJ016,Baseline,17JAN2026,Completed
+SUBJ016,Week 2,31JAN2026,Completed
+SUBJ016,Week 4,45JAN2026,Completed
+SUBJ017,Screening,17JAN2026,Completed
+SUBJ017,Baseline,18JAN2026,Completed
+SUBJ017,Week 2,32JAN2026,Completed
+SUBJ017,Week 4,46JAN2026,Completed
+SUBJ018,Screening,18JAN2026,Completed
+SUBJ018,Baseline,19JAN2026,Completed
+SUBJ018,Week 2,33JAN2026,Completed
+SUBJ018,Week 4,47JAN2026,Completed
+SUBJ019,Screening,19JAN2026,Completed
+SUBJ019,Baseline,20JAN2026,Completed
+SUBJ019,Week 2,34JAN2026,Completed
+SUBJ019,Week 4,48JAN2026,Completed
+SUBJ020,Screening,20JAN2026,Completed
+SUBJ020,Baseline,21JAN2026,Completed
+SUBJ020,Week 2,35JAN2026,Completed
+SUBJ020,Week 4,49JAN2026,Completed
