@@ -1,0 +1,62 @@
+# Clinical Trial Data Validation Using SAS
+
+## Project Overview
+
+This is a self-directed project created to practice Clinical SAS and Clinical Data Management concepts using fictional clinical-trial-style datasets.
+The project focuses on importing clinical data into SAS, performing data-quality checks, identifying discrepancies, and checking consistency between related datasets.
+
+## Tools Used
+
+* SAS 9.4 / SAS Studio
+* Base SAS
+* DATA Step
+* PROC SQL
+* PROC SORT
+* PROC IMPORT
+* PROC CONTENTS
+* PROC PRINT
+
+## Datasets
+
+| Dataset | Purpose                                   |
+| ------- | ----------------------------------------- |
+| DEMOG   | Subject-level demographic information     |
+| VITALS  | Vital signs collected during study visits |
+| LABS    | Laboratory test results                   |
+| AE      | Adverse-event information                 |
+| VISIT   | Study visit information                   |
+
+## Validation Checks
+
+The project includes checks for:
+
+* Missing values
+* Invalid values
+* Duplicate records
+* Invalid dates
+* Invalid visit and status values
+* Unmatched subjects
+* Subject and visit consistency across datasets
+
+## Cross-Dataset Validation
+PROC SQL was used to compare subjects and visit information between datasets.
+
+Examples include:
+
+* VITALS → DEMOG
+* LABS → DEMOG
+* AE → DEMOG
+* VISIT → DEMOG
+* VITALS → VISIT
+* LABS → VISIT
+* AE → VISIT
+
+## Key Learning
+During the project, I also identified and corrected issues in my own validation logic, including SQL join logic and character-to-date conversion.
+This helped me understand that validation programs themselves need to be tested before findings are treated as true discrepancies.
+
+## Project Outputs
+The project includes SAS validation programs, fictional datasets, validation findings, and project documentation.
+
+## Important Note
+This is a self-directed educational project using fictional data. It does not represent experience with a real clinical trial, sponsor, CRO, or real patient data.
