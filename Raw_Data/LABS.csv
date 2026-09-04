@@ -1,0 +1,201 @@
+SUBJID,VISIT,TEST,RESULT,UNIT
+SUBJ001,Baseline,Hemoglobin,13.8,g/dL
+SUBJ001,Baseline,Glucose,95.5,mg/dL
+SUBJ001,Baseline,ALT,25.7,U/L
+SUBJ001,Baseline,AST,,U/L
+SUBJ001,Baseline,Creatinine,2.0,mg/dL
+SUBJ001,Week 4,Hemoglobin,13.8,g/dL
+SUBJ001,Week 4,Glucose,95.5,mg/dL
+SUBJ001,Week 4,ALT,25.7,U/L
+SUBJ001,Week 4,AST,24.9,U/L
+SUBJ001,Week 4,Creatinine,2.0,mg/dL
+SUBJ002,Baseline,Hemoglobin,14.1,
+SUBJ002,Baseline,Glucose,95.8,mg/dL
+SUBJ002,Baseline,ALT,26.0,U/L
+SUBJ002,Baseline,AST,25.2,U/L
+SUBJ002,Baseline,Creatinine,2.3,mg/dL
+SUBJ002,Week 4,Hemoglobin,14.1,g/dL
+SUBJ002,Week 4,Glucose,95.8,mg/dL
+SUBJ002,Week 4,ALT,26.0,U/L
+SUBJ002,Week 4,AST,25.2,U/L
+SUBJ002,Week 4,Creatinine,2.3,mg/dL
+SUBJ003,Baseline,Hemoglobinn,14.4,g/dL
+SUBJ003,Baseline,Glucose,96.1,mg/dL
+SUBJ003,Baseline,ALT,26.3,U/L
+SUBJ003,Baseline,AST,25.5,U/L
+SUBJ003,Baseline,Creatinine,2.6,mg/dL
+SUBJ003,Week 4,Hemoglobin,14.4,g/dL
+SUBJ003,Week 4,Glucose,96.1,mg/dL
+SUBJ003,Week 4,ALT,26.3,U/L
+SUBJ003,Week 4,AST,25.5,U/L
+SUBJ003,Week 4,Creatinine,2.6,mg/dL
+SUBJ004,Baseline,Hemoglobin,14.7,g/dL
+SUBJ004,Baseline,Hemoglobin,14.7,g/dL
+SUBJ004,Baseline,ALT,26.6,U/L
+SUBJ004,Baseline,AST,25.8,U/L
+SUBJ004,Baseline,Creatinine,2.9,mg/dL
+SUBJ004,Week 4,Hemoglobin,14.7,g/dL
+SUBJ004,Week 4,Glucose,96.4,mg/dL
+SUBJ004,Week 4,ALT,26.6,U/L
+SUBJ004,Week 4,AST,25.8,U/L
+SUBJ004,Week 4,Creatinine,2.9,mg/dL
+SUBJ005,Baseline,Hemoglobin,13.5,g/dL
+SUBJ005,Baseline,Glucose,95.2,mg/dL
+SUBJ005,Baseline,ALT,25.4,U/L
+SUBJ005,Baseline,AST,24.6,U/L
+SUBJ005,Baseline,Creatinine,1.7,mg/dL
+SUBJ005,Week 4,Hemoglobin,13.5,g/dL
+SUBJ005,Week 4,Glucose,95.2,mg/dL
+SUBJ005,Week 4,ALT,25.4,U/L
+SUBJ005,Week 4,AST,24.6,U/L
+SUBJ005,Week 4,Creatinine,1.7,mg/dL
+SUBJ006,Baseline,Hemoglobin,13.8,g/dL
+SUBJ006,Baseline,Glucose,95.5,mg/dL
+SUBJ006,Baseline,ALT,25.7,U/L
+SUBJ006,Baseline,AST,24.9,U/L
+SUBJ006,Baseline,Creatinine,2.0,mg/dL
+SUBJ006,Week 4,Hemoglobin,13.8,g/dL
+SUBJ006,Week 4,Glucose,95.5,mg/dL
+SUBJ006,Week 4,ALT,25.7,U/L
+SUBJ006,Week 4,AST,24.9,U/L
+SUBJ006,Week 4,Creatinine,2.0,mg/dL
+SUBJ007,Baseline,Hemoglobin,14.1,g/dL
+SUBJ007,Baseline,Glucose,95.8,mg/dL
+SUBJ007,Baseline,ALT,26.0,U/L
+SUBJ007,Baseline,AST,25.2,U/L
+SUBJ007,Baseline,Creatinine,2.3,mg/dL
+SUBJ007,Week 4,Hemoglobin,14.1,g/dL
+SUBJ007,Week 4,Glucose,95.8,mg/dL
+SUBJ007,Week 4,ALT,26.0,U/L
+SUBJ007,Week 4,AST,25.2,U/L
+SUBJ007,Week 4,Creatinine,2.3,mg/dL
+SUBJ008,Baseline,Hemoglobin,14.4,g/dL
+SUBJ008,Baseline,Glucose,96.1,mg/dL
+SUBJ008,Baseline,ALT,26.3,U/L
+SUBJ008,Baseline,AST,25.5,U/L
+SUBJ008,Baseline,Creatinine,2.6,mg/dL
+SUBJ008,Week 4,Hemoglobin,14.4,g/dL
+SUBJ008,Week 4,Glucose,96.1,mg/dL
+SUBJ008,Week 4,ALT,26.3,U/L
+SUBJ008,Week 4,AST,25.5,U/L
+SUBJ008,Week 4,Creatinine,2.6,mg/dL
+SUBJ009,Baseline,Hemoglobin,14.7,g/dL
+SUBJ009,Baseline,Glucose,96.4,mg/dL
+SUBJ009,Baseline,ALT,26.6,U/L
+SUBJ009,Baseline,AST,25.8,U/L
+SUBJ009,Baseline,Creatinine,2.9,mg/dL
+SUBJ009,Week 4,Hemoglobin,14.7,g/dL
+SUBJ009,Week 4,Glucose,96.4,mg/dL
+SUBJ009,Week 4,ALT,26.6,U/L
+SUBJ009,Week 4,AST,25.8,U/L
+SUBJ009,Week 4,Creatinine,2.9,mg/dL
+SUBJ010,Baseline,Hemoglobin,13.5,g/dL
+SUBJ010,Baseline,Glucose,95.2,mg/dL
+SUBJ010,Baseline,ALT,25.4,U/L
+SUBJ010,Baseline,AST,24.6,U/L
+SUBJ010,Baseline,Creatinine,1.7,mg/dL
+SUBJ010,Week 4,Hemoglobin,13.5,g/dL
+SUBJ010,Week 4,Glucose,95.2,mg/dL
+SUBJ010,Week 4,ALT,25.4,U/L
+SUBJ010,Week 4,AST,24.6,U/L
+SUBJ010,Week 4,Creatinine,1.7,mg/dL
+SUBJ011,Baseline,Hemoglobin,13.8,g/dL
+SUBJ011,Baseline,Glucose,95.5,mg/dL
+SUBJ011,Baseline,ALT,25.7,U/L
+SUBJ011,Baseline,AST,24.9,U/L
+SUBJ011,Baseline,Creatinine,2.0,mg/dL
+SUBJ011,Week 4,Hemoglobin,13.8,g/dL
+SUBJ011,Week 4,Glucose,95.5,mg/dL
+SUBJ011,Week 4,ALT,25.7,U/L
+SUBJ011,Week 4,AST,24.9,U/L
+SUBJ011,Week 4,Creatinine,2.0,mg/dL
+SUBJ012,Baseline,Hemoglobin,14.1,g/dL
+SUBJ012,Baseline,Glucose,95.8,mg/dL
+SUBJ012,Baseline,ALT,26.0,U/L
+SUBJ012,Baseline,AST,25.2,U/L
+SUBJ012,Baseline,Creatinine,2.3,mg/dL
+SUBJ012,Week 4,Hemoglobin,14.1,g/dL
+SUBJ012,Week 4,Glucose,95.8,mg/dL
+SUBJ012,Week 4,ALT,26.0,U/L
+SUBJ012,Week 4,AST,25.2,U/L
+SUBJ012,Week 4,Creatinine,2.3,mg/dL
+SUBJ013,Baseline,Hemoglobin,14.4,g/dL
+SUBJ013,Baseline,Glucose,96.1,mg/dL
+SUBJ013,Baseline,ALT,26.3,U/L
+SUBJ013,Baseline,AST,25.5,U/L
+SUBJ013,Baseline,Creatinine,2.6,mg/dL
+SUBJ013,Week 4,Hemoglobin,14.4,g/dL
+SUBJ013,Week 4,Glucose,96.1,mg/dL
+SUBJ013,Week 4,ALT,26.3,U/L
+SUBJ013,Week 4,AST,25.5,U/L
+SUBJ013,Week 4,Creatinine,2.6,mg/dL
+SUBJ014,Baseline,Hemoglobin,14.7,g/dL
+SUBJ014,Baseline,Glucose,96.4,mg/dL
+SUBJ014,Baseline,ALT,26.6,U/L
+SUBJ014,Baseline,AST,25.8,U/L
+SUBJ014,Baseline,Creatinine,2.9,mg/dL
+SUBJ014,Week 4,Hemoglobin,14.7,g/dL
+SUBJ014,Week 4,Glucose,96.4,mg/dL
+SUBJ014,Week 4,ALT,26.6,U/L
+SUBJ014,Week 4,AST,25.8,U/L
+SUBJ014,Week 4,Creatinine,2.9,mg/dL
+SUBJ015,Baseline,Hemoglobin,13.5,g/dL
+SUBJ015,Baseline,Glucose,95.2,mg/dL
+SUBJ015,Baseline,ALT,25.4,U/L
+SUBJ015,Baseline,AST,24.6,U/L
+SUBJ015,Baseline,Creatinine,1.7,mg/dL
+SUBJ015,Week 4,Hemoglobin,13.5,g/dL
+SUBJ015,Week 4,Glucose,95.2,mg/dL
+SUBJ015,Week 4,ALT,25.4,U/L
+SUBJ015,Week 4,AST,24.6,U/L
+SUBJ015,Week 4,Creatinine,1.7,mg/dL
+SUBJ016,Baseline,Hemoglobin,13.8,g/dL
+SUBJ016,Baseline,Glucose,95.5,mg/dL
+SUBJ016,Baseline,ALT,25.7,U/L
+SUBJ016,Baseline,AST,24.9,U/L
+SUBJ016,Baseline,Creatinine,2.0,mg/dL
+SUBJ016,Week 4,Hemoglobin,13.8,g/dL
+SUBJ016,Week 4,Glucose,95.5,mg/dL
+SUBJ016,Week 4,ALT,25.7,U/L
+SUBJ016,Week 4,AST,24.9,U/L
+SUBJ016,Week 4,Creatinine,2.0,mg/dL
+SUBJ017,Baseline,Hemoglobin,14.1,g/dL
+SUBJ017,Baseline,Glucose,95.8,mg/dL
+SUBJ017,Baseline,ALT,26.0,U/L
+SUBJ017,Baseline,AST,25.2,U/L
+SUBJ017,Baseline,Creatinine,2.3,mg/dL
+SUBJ017,Week 4,Hemoglobin,14.1,g/dL
+SUBJ017,Week 4,Glucose,95.8,mg/dL
+SUBJ017,Week 4,ALT,26.0,U/L
+SUBJ017,Week 4,AST,25.2,U/L
+SUBJ017,Week 4,Creatinine,2.3,mg/dL
+SUBJ018,Baseline,Hemoglobin,14.4,g/dL
+SUBJ018,Baseline,Glucose,96.1,mg/dL
+SUBJ018,Baseline,ALT,26.3,U/L
+SUBJ018,Baseline,AST,25.5,U/L
+SUBJ018,Baseline,Creatinine,2.6,mg/dL
+SUBJ018,Week 4,Hemoglobin,14.4,g/dL
+SUBJ018,Week 4,Glucose,96.1,mg/dL
+SUBJ018,Week 4,ALT,26.3,U/L
+SUBJ018,Week 4,AST,25.5,U/L
+SUBJ018,Week 4,Creatinine,2.6,mg/dL
+SUBJ019,Baseline,Hemoglobin,14.7,g/dL
+SUBJ019,Baseline,Glucose,96.4,mg/dL
+SUBJ019,Baseline,ALT,26.6,U/L
+SUBJ019,Baseline,AST,25.8,U/L
+SUBJ019,Baseline,Creatinine,2.9,mg/dL
+SUBJ019,Week 4,Hemoglobin,14.7,g/dL
+SUBJ019,Week 4,Glucose,96.4,mg/dL
+SUBJ019,Week 4,ALT,26.6,U/L
+SUBJ019,Week 4,AST,25.8,U/L
+SUBJ019,Week 4,Creatinine,2.9,mg/dL
+SUBJ020,Baseline,Hemoglobin,13.5,g/dL
+SUBJ020,Baseline,Glucose,95.2,mg/dL
+SUBJ020,Baseline,ALT,25.4,U/L
+SUBJ020,Baseline,AST,24.6,U/L
+SUBJ020,Baseline,Creatinine,1.7,mg/dL
+SUBJ020,Week 4,Hemoglobin,13.5,g/dL
+SUBJ020,Week 4,Glucose,95.2,mg/dL
+SUBJ020,Week 4,ALT,25.4,U/L
+SUBJ020,Week 4,AST,24.6,U/L
+SUBJ020,Week 4,Creatinine,1.7,mg/dL
